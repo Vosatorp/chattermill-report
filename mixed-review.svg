@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="920" viewBox="0 0 920 770" role="img" aria-labelledby="title desc">
+<title id="title">One review can contain praise and a complaint</title>
+<desc id="desc">Review 2617 praises the old app and complains about immediate logout in the new app. Only the current negative aspect joins the logout group with review 1013. Actual lexical mapping also produces broad extra topics.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#566575"/></marker></defs>
+<rect width="920" height="770" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#172536">
+<text x="36" y="46" font-size="28" font-weight="bold">One review, two different observations</text>
+<rect x="36" y="82" width="848" height="180" rx="8" fill="#f3f6fa" stroke="#c6cfda"/>
+<text x="58" y="115" font-size="22" font-weight="bold">Review 2617: selected literal evidence</text>
+<g font-size="19">
+<text x="58" y="151">“I have been using the old app for a while now with no issues.”</text>
+<text x="58" y="191">“Once I log on and check my account details it immediately</text>
+<text x="58" y="220">signs me out before I can do anything.”</text>
+<text x="58" y="248" fill="#566575">The complete original is included in the example appendix.</text>
+</g>
+<g stroke="#566575" stroke-width="2" fill="none" marker-end="url(#arrow)">
+<path d="M460 265V290H230V313"/><path d="M460 290H680V313"/>
+</g>
+<rect x="36" y="325" width="404" height="125" rx="8" fill="#eef7f0" stroke="#c6cfda"/>
+<rect x="480" y="325" width="404" height="125" rx="8" fill="#fff6e8" stroke="#c6cfda"/>
+<g font-size="22" font-weight="bold"><text x="58" y="361">Old app worked</text><text x="502" y="361">New app signs out immediately</text></g>
+<g font-size="19">
+<text x="58" y="393">Aspect 2617:0 — positive, past</text>
+<text x="58" y="424">Keep separate from the new-app issue</text>
+<text x="502" y="393">Aspect 2617:1 — negative, current</text>
+<text x="502" y="424">Join the related current observation</text>
+</g>
+<path d="M682 455V486" stroke="#566575" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="36" y="500" width="848" height="95" rx="8" fill="#f3f6fa" stroke="#c6cfda"/>
+<text x="58" y="535" font-size="22" font-weight="bold">F00055: immediate logout after moving to the new app</text>
+<text x="58" y="570" font-size="19">Supported by 1013:0 and 2617:1 — two unique reviews, not three thoughts.</text>
+<path d="M460 600V628" stroke="#566575" stroke-width="2" marker-end="url(#arrow)"/>
+<g font-size="19">
+<text x="36" y="661">Actual themes: Account Access, App Performance, Updates &amp; Versions.</text>
+<text x="36" y="695">Also emitted for 1013: Cards &amp; Payments and Core Banking Features.</text>
+<text x="36" y="729" fill="#566575">Those extra keyword-based links need review; no technical root cause is claimed.</text>
+</g></g></svg>
